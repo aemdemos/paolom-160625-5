@@ -1,0 +1,33 @@
+{
+  "originUrl": "https://personal-financial-services.webflow.io",
+  "lastCrawled": "https://personal-financial-services.webflow.io/",
+  "urls": [
+    {
+      "url": "https://personal-financial-services.webflow.io/",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "f8de0c66411b8de2f832963b10d85612778f7d73"
+    },
+    {
+      "url": "https://personal-financial-services.webflow.io/financial-insights",
+      "source": "CRAWL",
+      "targetPath": "/financial-insights",
+      "id": "ec92dbb69a30b0e08ba84caeeaf81ba1909fd2b9"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": []
+}
