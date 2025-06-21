@@ -1,0 +1,27 @@
+{
+  "originUrl": "https://fashion-blog-0b9d71.webflow.io",
+  "lastCrawled": "https://fashion-blog-0b9d71.webflow.io/",
+  "urls": [
+    {
+      "url": "https://fashion-blog-0b9d71.webflow.io/",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "e2bf4cb5fb213891b24712348eabf073789d9c88"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": []
+}
